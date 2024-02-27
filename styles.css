@@ -37,7 +37,6 @@ li.nav-link a {
     text-decoration: none;
     font-family: sans-serif;
     min-width: 300px;
-    max-width: 60%;
     box-shadow: 5px 5px 5px grey;
     font-weight: bold;
 }
