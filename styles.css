@@ -23,19 +23,19 @@ h1 {
   /* Adjust font size for smaller devices */
   @media screen and (max-width: 800px) {
     h1 {
-      font-size: 3em; /* Adjust font size for smaller screens */
+      font-size: 4em; /* Adjust font size for smaller screens */
     }
   }
 
   /* Apply responsive font scaling using viewport width */
   @media screen and (max-width: 800px) {
     h1 {
-      font-size: 4vw; /* Adjust font size based on viewport width */
+      font-size: 8vw; /* Adjust font size based on viewport width */
     }
   }
 ul.nav {
     width: 75%;
-    padding: 0px;
+    padding: 15px 0px;
     margin-left: auto;
     margin-right: auto;
 }
